@@ -1,15 +1,22 @@
 ### Hi there 👋
 ### 📫 How to reach me: ja_mokeddem@esi.dz
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently contributing to some cool projects 
+- 🌱 I’m currently learning ML & DL and backend dev
+- 👯 I’m looking to collaborate on projects based on ML &/ DL
+- 💬 Ask me about i know or need to know x)
 <!--
 **ahmedmokeddem/ahmedmokeddem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently contributing to some cool projects 
- 🌱 I’m currently learning ML & DL and backend dev
- 👯 I’m looking to collaborate on projects based on ML &/ DL
+- 🔭 I’m currently contributing to some cool projects 
+- 🌱 I’m currently learning ML & DL and backend dev
+- 👯 I’m looking to collaborate on projects based on ML &/ DL
 - 🤔 I’m looking for help with ...
- 💬 Ask me about i know or need to know x)
+- 💬 Ask me about i know or need to know x)
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
