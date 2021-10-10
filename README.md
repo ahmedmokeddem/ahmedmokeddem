@@ -1,14 +1,17 @@
-### Hi there 👋
+# <div align="center">  Hey there 👋 I'm 4hm3d, call me Ahmed ! </div>
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on interesting projects
-- 🌱 I’m currently learning ML & DL and backend dev
-- 👯 I’m looking to collaborate on projects based on ML &/ DL
-- 💬 Ask me about anything i know or need to know x)
+### <div align="center"> I'm computer science student & backend developer & ML and DL passionate </div>
+<br>
 
-## 📫 How to reach me: ja_mokeddem@esi.dz
+- 🔭 I’m currently working on interesting projects <br>
+- 🌱 I’m currently learning ML & DL and backend dev <br>
+- 👯 I’m looking to collaborate on projects based on ML &/ DL <br>
+- 💬 Ask me about anything i know or need to know x) <br>
+- 📫 How to reach me: ja_mokeddem@esi.dz or [my LinkedIn account](https://www.linkedin.com/in/ahmed-abdelaziz-m-89957119a/) <br><br>
+
+
 <!--
 **ahmedmokeddem/ahmedmokeddem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
