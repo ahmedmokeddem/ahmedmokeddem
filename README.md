@@ -2,7 +2,7 @@
 
 
 
-### <div align="center"> I'm computer science student & backend developer </div>
+### <div align="center"> I'm computer science student </div>
 <br>
 <!--
 - 🔭 I’m currently working on interesting projects <br>
