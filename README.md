@@ -9,9 +9,8 @@
 - 🌱 I’m currently learning ML <br>
 - 👯 I’m looking to collaborate on projects based on ML &/ DL <br>
 - 💬 Ask me about anything i know or need to know x) <br>
--->
 - 📫 How to reach me: ja_mokeddem@esi.dz or [my LinkedIn account](https://www.linkedin.com/in/ahmed-abdelaziz-m-89957119a/) <br><br>
-
+-->
 
 <!--
 **ahmedmokeddem/ahmedmokeddem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
